@@ -1,7 +1,5 @@
 package App.events.types;
 
-import App.events.Event;
-
 public class MouseButtonPressed extends MouseButtonEvent {
 
 
